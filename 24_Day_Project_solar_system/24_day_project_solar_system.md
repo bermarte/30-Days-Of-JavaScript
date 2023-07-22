@@ -18,9 +18,9 @@ Yetayeh</a><br> <small> January, 2020</small> </sub>
 
 ![Thirty Days Of JavaScript](../images/banners/day_1_24.png)
 
--   [Day 24](#day-24)
-    -   [Exercises](#exercises)
-        -   [Exercise: Level 1](#exercise-level-1)
+- [Day 24](#day-24)
+  - [Exercises](#exercises)
+    - [Exercise: Level 1](#exercise-level-1)
 
 # Day 24
 
@@ -28,9 +28,9 @@ Yetayeh</a><br> <small> January, 2020</small> </sub>
 
 ### Exercise: Level 1
 
-1. Develop a small application which calculate a weight of an object in a
-   certain planet. The gif image is not complete check the video in the starter
-   file.
+1. Develop a small application which calculate a weight of an object
+   in a certain planet. The gif image is not complete check the video
+   in the starter file.
 
 ![Solar System](./../images/projects/dom_min_project_solar_system_day_4.1.gif)
 

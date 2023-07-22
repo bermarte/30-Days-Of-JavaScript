@@ -19,9 +19,9 @@ Yetayeh</a><br> <small> January, 2020</small> </sub>
 
 ![Thirty Days Of JavaScript](../images/banners/day_1_27.png)
 
--   [Day 27](#day-27)
-    -   [Exercises](#exercises)
-        -   [Exercise: Level 1](#exercise-level-1)
+- [Day 27](#day-27)
+  - [Exercises](#exercises)
+    - [Exercise: Level 1](#exercise-level-1)
 
 # Day 27
 

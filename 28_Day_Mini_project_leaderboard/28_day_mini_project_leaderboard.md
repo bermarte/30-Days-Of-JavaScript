@@ -13,14 +13,15 @@ Yetayeh</a><br> <small> January, 2020</small> </sub>
 
 </div>
 
-[<< Day 27](../27_Day_Mini_project_portfolio/27_day_mini_project_portfolio.md) |
+[<< Day 27](../27_Day_Mini_project_portfolio/27_day_mini_project_portfolio.md)
+|
 [Day 29>>](../29_Day_Mini_project_animating_characters/29_day_mini_project_animating_characters.md)
 
 ![Thirty Days Of JavaScript](../images/banners/day_1_28.png)
 
--   [Day 28](#day-28)
-    -   [Exercises](#exercises)
-        -   [Exercise: Level 1](#exercise-level-1)
+- [Day 28](#day-28)
+  - [Exercises](#exercises)
+    - [Exercise: Level 1](#exercise-level-1)
 
 # Day 28
 
@@ -34,5 +35,6 @@ Yetayeh</a><br> <small> January, 2020</small> </sub>
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 27](../27_Day_Mini_project_portfolio/27_day_mini_project_portfolio.md) |
+[<< Day 27](../27_Day_Mini_project_portfolio/27_day_mini_project_portfolio.md)
+|
 [Day 29>>](../29_Day_Mini_project_animating_characters/29_day_mini_project_animating_characters.md)
