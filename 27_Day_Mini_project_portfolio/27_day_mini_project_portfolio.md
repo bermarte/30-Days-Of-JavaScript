@@ -8,19 +8,20 @@
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
-</sub>
+<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh
+Yetayeh</a><br> <small> January, 2020</small> </sub>
 
 </div>
 
-[<< Day 26](../26_Day_World_countries_data_visualization_2/26_day_world_countries_data_visualization_2.md) | [Day 28 >>](../28_Day_Mini_project_leaderboard/28_day_mini_project_leaderboard.md)
+[<< Day 26](../26_Day_World_countries_data_visualization_2/26_day_world_countries_data_visualization_2.md)
+|
+[Day 28 >>](../28_Day_Mini_project_leaderboard/28_day_mini_project_leaderboard.md)
 
 ![Thirty Days Of JavaScript](../images/banners/day_1_27.png)
 
-- [Day 27](#day-27)
-  - [Exercises](#exercises)
-    - [Exercise: Level 1](#exercise-level-1)
+-   [Day 27](#day-27)
+    -   [Exercises](#exercises)
+        -   [Exercise: Level 1](#exercise-level-1)
 
 # Day 27
 
@@ -34,4 +35,6 @@
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 26](../26_Day_World_countries_data_visualization_2/26_day_world_countries_data_visualization_2.md) | [Day 28 >>](../28_Day_Mini_project_leaderboard/28_day_mini_project_leaderboard.md)
+[<< Day 26](../26_Day_World_countries_data_visualization_2/26_day_world_countries_data_visualization_2.md)
+|
+[Day 28 >>](../28_Day_Mini_project_leaderboard/28_day_mini_project_leaderboard.md)
